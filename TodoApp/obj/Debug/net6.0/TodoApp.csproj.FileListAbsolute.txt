@@ -1,0 +1,14 @@
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\bin\Debug\net6.0\TodoApp.exe
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\bin\Debug\net6.0\TodoApp.deps.json
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\bin\Debug\net6.0\TodoApp.runtimeconfig.json
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\bin\Debug\net6.0\TodoApp.dll
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\bin\Debug\net6.0\TodoApp.pdb
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.AssemblyInfoInputs.cache
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.AssemblyInfo.cs
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.csproj.CoreCompileInputs.cache
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.dll
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\refint\TodoApp.dll
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.pdb
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\TodoApp.genruntimeconfig.cache
+C:\Users\HAMID\source\repos\Todo_App\TodoApp\obj\Debug\net6.0\ref\TodoApp.dll
